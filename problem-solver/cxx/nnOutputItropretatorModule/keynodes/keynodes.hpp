@@ -39,6 +39,8 @@ public:
   SC_PROPERTY(Keynode("action_use_ann"), ForceCreate)
   static ScAddr action_use_ann;
 
+  SC_PROPERTY(Keynode("nrel_semantic_conext"), ForceCreate)
+  static ScAddr nrel_semantic_conext;
 };
 
 } // namespace nnOutputItropretator

@@ -13,7 +13,5 @@ namespace exampleModule
 
 ScAddr Keynodes::question_find_subdividing;
 ScAddr Keynodes::nrel_subdividing;
-ScAddr Keynodes::rrel_1;
-ScAddr Keynodes::rrel_2;
 
 }

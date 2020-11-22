@@ -26,12 +26,6 @@ public:
 
   SC_PROPERTY(Keynode("nrel_subdividing"), ForceCreate)
   static ScAddr nrel_subdividing;
-
-  SC_PROPERTY(Keynode("rrel_1"), ForceCreate)
-  static ScAddr rrel_1;
-
-  SC_PROPERTY(Keynode("rrel_2"), ForceCreate)
-  static ScAddr rrel_2;
 };
 
 } // namespace exampleModule

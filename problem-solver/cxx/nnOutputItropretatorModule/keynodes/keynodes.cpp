@@ -17,4 +17,5 @@ ScAddr Keynodes::rrel_2;
 ScAddr Keynodes::image;
 ScAddr Keynodes::action_use_ann;
 ScAddr Keynodes::nrel_nn_answer;
+ScAddr Keynodes::nrel_semantic_conext;
 }
